@@ -42,8 +42,10 @@ We will adopt a microservices architecture for MonitorMe. This decision is based
 1. **Monolithic Architecture**: This alternative was rejected due to its lack of flexibility and scalability, which may not meet the future expansion requirements of the system.
 2. **Serverless Architecture**: While serverless offers scalability and reduced operational overhead, it may not be suitable for real-time processing and may introduce latency issues.
 
+//TODO
 ## Date
 Date of this decision: [Insert Date]
 
+//TODO
 ## Status
 [Accepted/Superseded/Deprecated]
